@@ -18,3 +18,4 @@ The Web App was built in Python using the following libraries:
 10. matplotlib
 11. streamlit-lottie
 12. streamlit-option-menu
+13. annotated_text
