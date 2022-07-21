@@ -1,4 +1,4 @@
-# pyro-heat-balance-app
+# Pyro-Heat-Balance-App
 Its an app to automate Pyro Processing 
 The deployed web application is live at:
 
